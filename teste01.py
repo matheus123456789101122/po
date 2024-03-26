@@ -1,2 +1,2 @@
 print("arroz")
-x = input("Virtor")
+x = input("Vitor")
